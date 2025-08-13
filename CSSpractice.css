@@ -1,0 +1,15 @@
+.box {
+  background-color: red;
+}
+.box:nth-child(1) {
+  background-color: blue;
+}
+.box:nth-child(3) {
+  background-color: green;
+}
+a:hover {
+  color: green;
+}
+a:visited {
+  color: grey;
+}
